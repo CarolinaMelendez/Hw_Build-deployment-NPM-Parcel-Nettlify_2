@@ -1,0 +1,5 @@
+.cache/
+__MACOSX/
+dist/
+node_modules/
+
